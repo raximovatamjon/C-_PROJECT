@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722630824 source:/home/cyber/Desktop/c++_projects/11n/main.cpp
+	<iostream>
+	<cmath>
+

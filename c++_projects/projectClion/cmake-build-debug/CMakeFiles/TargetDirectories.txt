@@ -1,0 +1,3 @@
+/home/cyber/Desktop/c++_projects/projectClion/cmake-build-debug/CMakeFiles/projectClion.dir
+/home/cyber/Desktop/c++_projects/projectClion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cyber/Desktop/c++_projects/projectClion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

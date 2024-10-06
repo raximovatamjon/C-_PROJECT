@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1723281457 source:/home/cyber/Desktop/c++_projects/2.9dars/main.cpp
+	<iostream>
+	<string>
+

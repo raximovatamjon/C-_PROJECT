@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1723100325 source:/home/cyber/Desktop/c++_projects/2.6/main.cpp
+	<iostream>
+	<ctime>
+
